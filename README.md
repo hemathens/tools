@@ -14,14 +14,15 @@ Welcome to **Diverse Tools** — a curated collection of small, standalone tools
 
 ### 1. 💼 Resume Enhancer
 Boost your resume with intelligent formatting, keyword suggestions, and tips tailored for ATS (Applicant Tracking Systems).  
-> *Built with Python and simple UI elements (e.g., Streamlit or Flask).*  
+> *Built with Python and simple UI elements (e.g., Streamlit or Flask).*
+> This tool was created as a component for our project MockMate at Tic Tech Toe 25 Hackathon(DAIICT - Gujrat)  
 > Features:
 - Keyword highlighter
 - Role-specific enhancement suggestions
 - Clean exportable resume formats (PDF)
 
 ➡️ [View Tool](https://github.com/hemathens/tools/tree/main/resume_enhancer)
-➡️ [Try Demo]() *(option will be available after hosting)*
+➡️ [Try Demo]() *(option will be available after deploying the deom website)*
 
 ---
 
