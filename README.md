@@ -10,9 +10,8 @@ Welcome to **Diverse Tools** — a curated collection of small, standalone tools
 
 ---
 
-## 📌 Current Tools
+## 1. 💼 Resume Enhancer
 
-### 1. 💼 Resume Enhancer
 Boost your resume with intelligent formatting, keyword suggestions, and tips tailored for ATS (Applicant Tracking Systems).  
 > *Built with Python and simple UI elements (e.g., Streamlit or Flask).*
 > This tool was created as a component for our project MockMate at Tic Tech Toe 25 Hackathon(DAIICT - Gujrat)  
@@ -24,6 +23,13 @@ Boost your resume with intelligent formatting, keyword suggestions, and tips tai
 ➡️ [View Tool](https://github.com/hemathens/tools/tree/main/resume_enhancer)
 ➡️ [Try Demo]() *(option will be available after deploying the deom website)*
 
+### 🛠️ Tech Stack
+
+- Python
+- Streamlit / Flask / Tkinter
+- HTML/CSS (for web-based tools)
+- Markdown / PDF generation libs (like `pdfkit`, `weasyprint`, etc.)
+
 ---
 
 ## 📦 More Tools Coming Soon
@@ -33,14 +39,6 @@ Stay tuned! New tools will be added to this repo over time:
 - 🧠 Flashcard Quiz App
 - 🔐 Password Strength Checker
 - 🌐 URL Shortener
-
----
-
-## 🛠️ Tech Stack
-- Python
-- Streamlit / Flask / Tkinter
-- HTML/CSS (for web-based tools)
-- Markdown / PDF generation libs (like `pdfkit`, `weasyprint`, etc.)
 
 ---
 
